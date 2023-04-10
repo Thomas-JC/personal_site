@@ -1,0 +1,23 @@
+.header-box{
+    display: inline-flex;
+    padding: 10px;
+    margin-right: 20px;
+    background-color: rgb(209, 58, 58);
+
+    
+}
+.main-header{
+    text-align: center;
+    background-color: aqua;
+    justify-content: center;
+}
+.main-background{
+    text-align: center;
+    background-color: blueviolet;
+    
+
+}
+.background-background{
+    background-color: rgb(18, 19, 100);
+    width: 100%;
+}
