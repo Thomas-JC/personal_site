@@ -2,22 +2,56 @@
     display: inline-flex;
     padding: 10px;
     margin-right: 20px;
-    background-color: rgb(209, 58, 58);
+    background-color: rgb(255, 255, 255);
+    font-size: 30px;
 
     
 }
 .main-header{
     text-align: center;
-    background-color: aqua;
+    background-color: rgb(255, 255, 255);
     justify-content: center;
 }
 .main-background{
-    text-align: center;
-    background-color: blueviolet;
-    
+    background-color: rgb(92, 46, 134);
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+     width: 50%;
+    height: 1250px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);
 
 }
 .background-background{
-    background-color: rgb(18, 19, 100);
-    width: 100%;
+    background-color: rgb(119, 85, 134);
+}
+.quote-box{
+    text-align: center;
+    font-family: cursive;
+    color: gold;
+    padding: 5px 5px 5px 5px;
+    margin: 5px 5px 5px 5px;
+}
+.default-textbox{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+    padding: 5px 5px 5px 5px;
+    margin: 5px 5px 5px 5px;
+}
+.main-footer{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+
+}
+.footer-box{
+    display: inline-flex;
+    padding: 5px;
+    background-color: rgb(255, 255, 255);
+    font-size: 30px;
+
+}
+.project-box{
+    display: flexbox;
+    
 }
